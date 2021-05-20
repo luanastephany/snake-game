@@ -1,3 +1,3 @@
 # Snake Game
 
-![Image preview](/img/pic.png)
+![Image preview](https://github.com/luanastephany/snake-game/blob/master/img/pic.PNG)
