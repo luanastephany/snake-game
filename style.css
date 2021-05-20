@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(214, 233, 210);
+
+}
+
+#snake {
+  border: solid 1px rgb(2, 92, 2);
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(2, 92, 2);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
